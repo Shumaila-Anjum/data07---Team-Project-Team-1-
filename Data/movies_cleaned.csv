@@ -1,0 +1,1001 @@
+MovieID,Title,Year,Genres,Language,Country,Total Views
+1,Toy Story,1995,ANIMATION,German,Italy,69118
+2,Jumanji,1995,ADVENTURE,Spanish,UK,1661
+3,Grumpier Old Men,1995,COMEDY,English,India,22205
+4,Waiting to Exhale,1995,COMEDY,Spanish,India,84783
+5,Father of the Bride Part II,1995,COMEDY,German,India,61291
+6,Heat,1995,ACTION,English,Canada,40658
+7,Sabrina,1995,COMEDY,German,France,63623
+8,Tom and Huck,1995,ADVENTURE,French,India,50355
+9,Sudden Death,1995,ACTION,Spanish,UK,3943
+10,GoldenEye,1995,ACTION,Spanish,Canada,74950
+11,"American President, The",1995,COMEDY,French,France,79317
+12,Dracula: Dead and Loving It,1995,COMEDY,German,France,59858
+13,Balto,1995,ANIMATION,Italian,UK,39370
+14,Nixon,1995,DRAMA,Spanish,UK,98502
+15,Cutthroat Island,1995,ACTION,Spanish,India,41754
+16,Casino,null,DRAMA,German,France,4961
+17,Sense and Sensibility,1995,DRAMA,Italian,France,91178
+18,Four Rooms,1995,THRILLER,German,Canada,15056
+19,Ace Ventura: When Nature Calls,1995,COMEDY,Spanish,USA,58261
+20,Money Train,1995,ACTION,German,UK,13604
+21,Get Shorty,1995,ACTION,German,India,90108
+22,Copycat,1995,CRIME,Italian,France,37070
+23,Assassins,1995,THRILLER,English,Italy,25385
+24,Powder,1995,DRAMA,French,USA,11556
+25,Leaving Las Vegas,1995,DRAMA,French,Italy,3607
+26,Othello,1995,DRAMA,Italian,Italy,33580
+27,Now and Then,1995,DRAMA,Spanish,India,95762
+28,Persuasion,1995,ROMANCE,English,Canada,66047
+29,"City of Lost Children, The",1995,ADVENTURE,Italian,India,20596
+30,Shanghai Triad (Yao a yao yao dao waipo qiao),1995,DRAMA,English,France,10068
+31,Dangerous Minds,1995,DRAMA,Spanish,Italy,8564
+32,Twelve Monkeys,1995,DRAMA,Italian,France,1838
+33,Wings of Courage,1995,ADVENTURE,English,Italy,94496
+34,Babe,1995,CHILDREN'S,Italian,Canada,62835
+35,Carrington,1995,DRAMA,Italian,Italy,85634
+36,Dead Man Walking,1995,DRAMA,French,UK,6664
+37,Across the Sea of Time,1995,DOCUMENTARY,Italian,France,96231
+38,It Takes Two,1995,COMEDY,Italian,Canada,42456
+39,Clueless,1995,COMEDY,Spanish,India,17636
+40,"Cry, the Beloved Country",1995,DRAMA,Spanish,France,56407
+41,Richard III,1995,DRAMA,Italian,USA,22916
+42,Dead Presidents,1995,ACTION,French,Italy,80657
+43,Restoration,1995,DRAMA,English,Italy,59361
+44,Mortal Kombat,1995,ACTION,Spanish,UK,55503
+45,To Die For,1995,COMEDY,German,Italy,9861
+46,How to Make an American Quilt,1995,DRAMA,German,Canada,24155
+47,Seven (Se7en),1995,CRIME,Spanish,Italy,44918
+48,Pocahontas,1995,ANIMATION,Italian,Italy,89436
+49,When Night Is Falling,1995,DRAMA,French,India,92016
+50,"Usual Suspects, The",1995,CRIME,Italian,India,86782
+51,Guardian Angel,1994,ACTION,English,India,86868
+52,Mighty Aphrodite,1995,COMEDY,German,Italy,16459
+53,Lamerica,1994,DRAMA,Spanish,Canada,11033
+54,"Big Green, The",1995,CHILDREN'S,French,UK,31907
+55,Georgia,1995,DRAMA,French,UK,71386
+56,Kids of the Round Table,1995,ADVENTURE,French,Canada,12661
+57,Home for the Holidays,1995,DRAMA,Spanish,Canada,17251
+58,"Postino, Il (The Postman)",1994,DRAMA,German,France,3466
+59,"Confessional, The (Le Confessionnal)",1995,DRAMA,French,UK,75571
+60,"Indian in the Cupboard, The",1995,ADVENTURE,English,France,33177
+61,Eye for an Eye,1996,DRAMA,German,Canada,82291
+62,Mr. Holland's Opus,1995,DRAMA,French,France,44033
+63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,1996,COMEDY,Italian,UK,5798
+64,Two if by Sea,1996,COMEDY,French,UK,71031
+65,Bio-Dome,1996,COMEDY,Spanish,USA,39634
+66,Lawnmower Man 2: Beyond Cyberspace,1996,SCI-FI,German,Italy,79659
+67,Two Bits,1995,DRAMA,Spanish,USA,64963
+68,French Twist (Gazon maudit),1995,COMEDY,French,USA,22424
+69,Friday,1995,COMEDY,Spanish,India,57490
+70,From Dusk Till Dawn,1996,ACTION,French,UK,31523
+71,Fair Game,1995,ACTION,Italian,France,3878
+72,Kicking and Screaming,1995,COMEDY,Spanish,UK,89414
+73,"Mis¨¦rables, Les",1995,DRAMA,Spanish,USA,60469
+74,Bed of Roses,1996,DRAMA,Spanish,USA,47208
+75,Big Bully,1996,COMEDY,German,Canada,72712
+76,Screamers,1995,SCI-FI,English,France,87717
+77,Nico Icon,1995,DOCUMENTARY,English,USA,25310
+78,"Crossing Guard, The",1995,DRAMA,German,USA,29119
+79,"Juror, The",1996,DRAMA,Italian,Italy,62017
+80,"White Balloon, The (Badkonake Sefid )",1995,DRAMA,Italian,Italy,26286
+81,Things to Do in Denver when You're Dead,1995,CRIME,Italian,India,64321
+82,Antonia's Line (Antonia),1995,DRAMA,English,Canada,4373
+83,Once Upon a Time... When We Were Colored,1995,DRAMA,English,USA,58713
+84,Last Summer in the Hamptons,1995,COMEDY,German,Canada,38384
+85,Angels and Insects,1995,DRAMA,Italian,USA,73246
+86,White Squall,1996,ADVENTURE,Italian,France,17692
+87,Dunston Checks In,1996,CHILDREN'S,Italian,Canada,25583
+88,Black Sheep,1996,COMEDY,English,France,96230
+89,Nick of Time,1995,ACTION,English,UK,85159
+90,"Journey of August King, The",1995,DRAMA,Italian,Italy,82407
+92,Mary Reilly,1996,DRAMA,Italian,USA,33125
+93,Vampire in Brooklyn,1995,COMEDY,Spanish,Italy,60342
+94,Beautiful Girls,1996,DRAMA,English,UK,69599
+95,Broken Arrow,1996,ACTION,German,Canada,23271
+96,In the Bleak Midwinter,1995,COMEDY,English,USA,9483
+97,"Hate (Haine, La)",1995,DRAMA,French,India,88043
+98,Shopping,1994,ACTION,Italian,Italy,57302
+99,Heidi Fleiss: Hollywood Madam,1995,DOCUMENTARY,Italian,Canada,25024
+100,City Hall,1996,DRAMA,Italian,UK,23783
+101,Bottle Rocket,1996,COMEDY,English,Italy,59763
+102,Mr. Wrong,1996,COMEDY,French,Italy,92015
+103,Unforgettable,1996,THRILLER,German,Canada,43078
+104,Happy Gilmore,1996,COMEDY,German,India,2602
+105,"Bridges of Madison County, The",1995,DRAMA,Spanish,India,93429
+106,Nobody Loves Me (Keiner liebt mich),1994,COMEDY,French,USA,86236
+107,Muppet Treasure Island,1996,ADVENTURE,French,Italy,74030
+108,Catwalk,1995,DOCUMENTARY,German,India,22527
+109,Headless Body in Topless Bar,1995,COMEDY,German,Italy,59714
+110,Braveheart,1995,ACTION,Italian,UK,6573
+111,Taxi Driver,1976,DRAMA,Spanish,India,91445
+112,Rumble in the Bronx,1995,ACTION,English,India,30625
+113,Before and After,1996,DRAMA,German,Canada,92556
+114,Margaret's Museum,1995,DRAMA,German,Italy,92562
+115,Happiness Is in the Field,1995,COMEDY,French,Canada,48416
+116,Anne Frank Remembered,1995,DOCUMENTARY,Spanish,India,66807
+117,"Young Poisoner's Handbook, The",1995,CRIME,German,Canada,3446
+118,If Lucy Fell,1996,COMEDY,German,India,21108
+119,"Steal Big, Steal Little",1995,COMEDY,Spanish,UK,98849
+120,Race the Sun,1996,DRAMA,English,India,31897
+121,"Boys of St. Vincent, The",1993,DRAMA,Spanish,Canada,45843
+122,Boomerang,1992,COMEDY,Spanish,India,58203
+123,Chungking Express,1994,DRAMA,German,USA,55370
+124,"Star Maker, The (Uomo delle stelle, L')",1995,DRAMA,English,USA,77201
+125,Flirting With Disaster,1996,COMEDY,Spanish,France,96627
+126,"NeverEnding Story III, The",1994,ADVENTURE,Spanish,France,47617
+127,"Silence of the Palace, The (Saimt el Qusur)",1994,DRAMA,Italian,USA,72789
+128,Jupiter's Wife,1994,DOCUMENTARY,English,France,16764
+129,Pie in the Sky,1995,COMEDY,English,India,28538
+130,Angela,1995,DRAMA,French,UK,11996
+131,Frankie Starlight,1995,DRAMA,English,USA,83400
+132,Jade,1995,THRILLER,French,Italy,37936
+133,Nueba Yol,1995,COMEDY,Italian,Canada,95234
+134,Sonic Outlaws,1995,DOCUMENTARY,English,UK,91695
+135,Down Periscope,1996,COMEDY,French,Canada,52277
+136,From the Journals of Jean Seberg,1995,DOCUMENTARY,German,UK,62013
+137,Man of the Year,1995,DOCUMENTARY,Spanish,UK,74222
+138,"Neon Bible, The",1995,DRAMA,Spanish,Italy,13075
+139,Target,1995,ACTION,English,France,97467
+140,Up Close and Personal,1996,DRAMA,Spanish,India,40484
+141,"Birdcage, The",1996,COMEDY,French,UK,49504
+142,Shadows (Cienie),1988,DRAMA,English,France,18264
+143,Gospa,1995,DRAMA,English,India,82558
+144,"Brothers McMullen, The",1995,COMEDY,German,USA,18915
+145,Bad Boys,1995,ACTION,English,Italy,72607
+146,"Amazing Panda Adventure, The",1995,ADVENTURE,English,USA,68033
+147,"Basketball Diaries, The",1995,DRAMA,Spanish,France,31844
+148,"Awfully Big Adventure, An",1995,DRAMA,Spanish,Canada,35793
+149,Amateur,1994,CRIME,French,USA,8796
+150,Apollo 13,1995,DRAMA,Italian,USA,33376
+151,Rob Roy,1995,DRAMA,Italian,UK,40670
+152,"Addiction, The",1995,HORROR,French,Italy,64261
+153,Batman Forever,1995,ACTION,Spanish,USA,23973
+154,Belle de jour,1967,DRAMA,Italian,India,10884
+155,Beyond Rangoon,1995,DRAMA,Spanish,Italy,87349
+156,Blue in the Face,1995,COMEDY,Italian,France,14767
+157,Canadian Bacon,1994,COMEDY,French,India,51718
+158,Casper,1995,ADVENTURE,English,USA,66877
+159,Clockers,1995,DRAMA,German,India,64558
+160,Congo,1995,ACTION,English,Canada,63132
+161,Crimson Tide,1995,DRAMA,Spanish,Italy,45161
+162,Crumb,1994,DOCUMENTARY,French,Canada,71978
+163,Desperado,1995,ACTION,Italian,France,68799
+164,Devil in a Blue Dress,1995,CRIME,Italian,France,29235
+165,Die Hard: With a Vengeance,1995,ACTION,English,Canada,88265
+166,"Doom Generation, The",1995,COMEDY,Italian,USA,97949
+167,Feast of July,1995,DRAMA,Spanish,UK,31179
+168,First Knight,1995,ACTION,Italian,Italy,67689
+169,Free Willy 2: The Adventure Home,1995,ADVENTURE,German,USA,88892
+170,Hackers,1995,ACTION,German,India,23560
+171,Jeffrey,1995,COMEDY,French,Canada,98725
+172,Johnny Mnemonic,1995,ACTION,German,France,31896
+173,Judge Dredd,1995,ACTION,Spanish,USA,58497
+174,Jury Duty,1995,COMEDY,German,Italy,11046
+175,Kids,1995,DRAMA,Italian,India,29709
+176,Living in Oblivion,1995,COMEDY,English,Italy,94076
+177,Lord of Illusions,1995,HORROR,Spanish,India,14231
+178,Love & Human Remains,1993,COMEDY,Italian,Italy,78513
+179,Mad Love,1995,DRAMA,French,UK,72933
+180,Mallrats,1995,COMEDY,Spanish,Italy,88028
+181,Mighty Morphin Power Rangers: The Movie,1995,ACTION,French,USA,83712
+182,Moonlight and Valentino,1995,DRAMA,Italian,France,1740
+183,Mute Witness,1994,THRILLER,English,USA,46855
+184,Nadja,1994,DRAMA,English,France,22747
+185,"Net, The",1995,SCI-FI,German,Canada,23169
+186,Nine Months,1995,COMEDY,German,USA,59963
+187,Party Girl,1995,COMEDY,German,India,59835
+188,"Prophecy, The",1995,HORROR,German,Canada,63522
+189,Reckless,1995,COMEDY,French,Canada,71202
+190,Safe,1995,THRILLER,German,UK,92196
+191,"Scarlet Letter, The",1995,DRAMA,Italian,Canada,13392
+192,"Show, The",1995,DOCUMENTARY,Italian,USA,61985
+193,Showgirls,1995,DRAMA,English,Italy,57941
+194,Smoke,1995,DRAMA,Italian,France,95316
+195,Something to Talk About,1995,COMEDY,Italian,Italy,53283
+196,Species,1995,HORROR,English,Italy,16152
+197,"Stars Fell on Henrietta, The",1995,DRAMA,German,Italy,99939
+198,Strange Days,1995,ACTION,Spanish,France,79748
+199,"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les)",1964,DRAMA,English,UK,64286
+200,"Tie That Binds, The",1995,THRILLER,French,Canada,64644
+201,Three Wishes,1995,DRAMA,German,France,44347
+202,Total Eclipse,1995,DRAMA,French,France,41331
+203,"To Wong Foo, Thanks for Everything! Julie Newmar",1995,COMEDY,French,Canada,72214
+204,Under Siege 2: Dark Territory,1995,ACTION,Italian,Italy,81932
+205,Unstrung Heroes,1995,COMEDY,English,India,87342
+206,Unzipped,1995,DOCUMENTARY,German,Canada,27059
+207,"Walk in the Clouds, A",1995,DRAMA,Italian,Italy,9593
+208,Waterworld,1995,ACTION,German,Italy,89561
+209,White Man's Burden,1995,DRAMA,English,USA,24405
+210,Wild Bill,1995,WESTERN,German,India,78979
+211,"Browning Version, The",1994,DRAMA,German,France,48307
+212,Bushwhacked,1995,COMEDY,German,France,21038
+213,Burnt By the Sun (Utomlyonnye solntsem),1994,DRAMA,French,USA,95325
+214,Before the Rain (Pred dozhdot),1994,DRAMA,Spanish,Canada,29659
+215,Before Sunrise,1995,DRAMA,English,USA,46925
+216,Billy Madison,1995,COMEDY,German,Italy,16502
+217,"Babysitter, The",1995,DRAMA,Italian,UK,34150
+218,Boys on the Side,1995,COMEDY,Italian,Canada,56455
+219,"Cure, The",1995,DRAMA,Spanish,India,37262
+220,Castle Freak,1995,HORROR,English,France,84446
+222,Circle of Friends,1995,DRAMA,Italian,Canada,39286
+223,Clerks,1994,COMEDY,French,UK,47752
+224,Don Juan DeMarco,1995,COMEDY,German,Canada,75365
+225,Disclosure,1994,DRAMA,German,UK,6444
+226,Dream Man,1995,THRILLER,Spanish,Canada,68126
+227,Drop Zone,1994,ACTION,German,Italy,66427
+228,Destiny Turns on the Radio,1995,COMEDY,French,Italy,81658
+229,Death and the Maiden,1994,DRAMA,English,France,50942
+230,Dolores Claiborne,1994,DRAMA,Spanish,France,64789
+231,Dumb & Dumber,1994,COMEDY,English,India,59321
+232,Eat Drink Man Woman,1994,COMEDY,English,India,41470
+233,Exotica,1994,DRAMA,German,France,99707
+234,Exit to Eden,1994,COMEDY,Spanish,India,4986
+235,Ed Wood,1994,COMEDY,French,Italy,96646
+236,French Kiss,1995,COMEDY,German,France,36010
+237,Forget Paris,1995,COMEDY,German,UK,38472
+238,Far From Home: The Adventures of Yellow Dog,1995,ADVENTURE,German,Canada,59607
+239,"Goofy Movie, A",1995,ANIMATION,English,Canada,35812
+240,Hideaway,1995,THRILLER,Spanish,France,55161
+241,Fluke,1995,CHILDREN'S,German,India,92416
+242,Farinelli: il castrato,1994,DRAMA,Spanish,UK,31093
+243,Gordy,1995,COMEDY,German,Italy,98151
+244,Gumby: The Movie,1995,ANIMATION,Italian,Italy,9911
+245,"Glass Shield, The",1994,CRIME,Spanish,Italy,91986
+246,Hoop Dreams,1994,DOCUMENTARY,Spanish,France,98198
+247,Heavenly Creatures,1994,DRAMA,French,Italy,40411
+248,Houseguest,1994,COMEDY,German,Canada,24450
+249,Immortal Beloved,1994,DRAMA,French,Italy,87844
+250,Heavyweights,1994,CHILDREN'S,Italian,France,39801
+251,"Hunted, The",1995,ACTION,English,Canada,61079
+252,I.Q.,1994,COMEDY,French,France,19711
+253,Interview with the Vampire,1994,DRAMA,German,France,59952
+254,Jefferson in Paris,1995,DRAMA,English,France,58062
+255,"Jerky Boys, The",1994,COMEDY,English,UK,53835
+256,Junior,1994,COMEDY,Italian,USA,50374
+257,Just Cause,1995,MYSTERY,Italian,France,39610
+258,"Kid in King Arthur's Court, A",1995,ADVENTURE,French,USA,81252
+259,Kiss of Death,1995,CRIME,Italian,France,72724
+260,Star Wars: Episode IV - A New Hope,1977,ACTION,Spanish,France,6999
+261,Little Women,1994,DRAMA,French,Italy,33536
+262,"Little Princess, A",1995,CHILDREN'S,Italian,Italy,81269
+263,Ladybird Ladybird,1994,DRAMA,Spanish,France,7920
+264,"Enfer, L'",1994,DRAMA,German,France,35437
+265,Like Water for Chocolate (Como agua para chocolate),1992,DRAMA,Spanish,India,28554
+266,Legends of the Fall,1994,DRAMA,English,France,86890
+267,Major Payne,1994,COMEDY,French,UK,28606
+268,Little Odessa,1994,DRAMA,Italian,Italy,68264
+269,My Crazy Life (Mi vida loca),1993,DRAMA,Italian,Italy,99707
+270,Love Affair,1994,DRAMA,French,Canada,14485
+271,Losing Isaiah,1995,DRAMA,English,Canada,52290
+272,"Madness of King George, The",1994,DRAMA,German,Italy,35569
+273,Mary Shelley's Frankenstein,1994,DRAMA,French,France,20504
+274,Man of the House,1995,COMEDY,Italian,UK,44241
+275,Mixed Nuts,1994,COMEDY,French,India,89459
+276,Milk Money,1994,COMEDY,Italian,Canada,29952
+277,Miracle on 34th Street,1994,DRAMA,English,Canada,15802
+278,Miami Rhapsody,1995,COMEDY,Italian,USA,44822
+279,My Family,1995,DRAMA,Spanish,France,61917
+280,Murder in the First,1995,DRAMA,French,Italy,20830
+281,Nobody's Fool,1994,DRAMA,English,USA,19780
+282,Nell,1994,DRAMA,Spanish,India,56967
+283,New Jersey Drive,1995,CRIME,French,India,15267
+284,New York Cop,1996,ACTION,Spanish,Canada,43512
+285,Beyond Bedlam,1993,DRAMA,Spanish,France,17852
+286,Nemesis 2: Nebula,1995,ACTION,Spanish,UK,22777
+287,Nina Takes a Lover,1994,COMEDY,Spanish,UK,53849
+288,Natural Born Killers,1994,ACTION,German,India,71580
+289,Only You,1994,COMEDY,German,USA,11883
+290,Once Were Warriors,1994,CRIME,Italian,USA,77184
+291,Poison Ivy II,1995,THRILLER,English,UK,51429
+292,Outbreak,1995,ACTION,French,France,14801
+293,"Professional, The (a.k.a. Leon: The Professional)",1994,CRIME,Italian,France,86482
+294,"Perez Family, The",1995,COMEDY,Italian,Italy,99511
+295,"Pyromaniac's Love Story, A",1995,COMEDY,German,India,54435
+296,Pulp Fiction,1994,CRIME,German,UK,88088
+297,Panther,1995,DRAMA,German,France,95668
+298,Pushing Hands,1992,COMEDY,German,UK,69031
+299,Priest,1994,DRAMA,German,UK,36275
+300,Quiz Show,1994,DRAMA,Spanish,Italy,1998
+301,Picture Bride,1995,DRAMA,German,India,27468
+302,Queen Margot (La Reine Margot),1994,DRAMA,Italian,USA,59757
+303,"Quick and the Dead, The",1995,ACTION,German,France,83192
+304,Roommates,1995,COMEDY,German,India,86279
+305,Ready to Wear (Pret-A-Porter),1994,COMEDY,Italian,UK,53105
+306,Three Colors: Red,1994,DRAMA,English,USA,92912
+307,Three Colors: Blue,1993,DRAMA,English,India,27548
+308,Three Colors: White,1994,DRAMA,Italian,France,84468
+309,"Red Firecracker, Green Firecracker",1994,DRAMA,German,France,72056
+310,Rent-a-Kid,1995,COMEDY,German,UK,52788
+311,Relative Fear,1994,HORROR,German,UK,83795
+312,Stuart Saves His Family,1995,COMEDY,Spanish,UK,54560
+313,"Swan Princess, The",1994,ANIMATION,French,Italy,43464
+314,"Secret of Roan Inish, The",1994,DRAMA,French,Italy,83478
+315,"Specialist, The",1994,ACTION,Italian,India,56926
+316,Stargate,1994,ACTION,French,UK,29129
+317,"Santa Clause, The",1994,CHILDREN'S,German,USA,17195
+318,"Shawshank Redemption, The",1994,DRAMA,French,France,35083
+319,Shallow Grave,1994,THRILLER,French,India,34330
+320,Suture,1993,FILM-NOIR,English,India,18193
+321,Strawberry and Chocolate (Fresa y chocolate),1993,DRAMA,English,France,12085
+322,Swimming with Sharks,1995,COMEDY,English,Canada,14423
+324,"Sum of Us, The",1994,COMEDY,German,Canada,36898
+325,National Lampoon's Senior Trip,1995,COMEDY,German,France,25430
+326,To Live (Huozhe),1994,DRAMA,English,UK,56751
+327,Tank Girl,1995,ACTION,Italian,India,18245
+328,Tales From the Crypt Presents: Demon Knight,1995,HORROR,French,India,54921
+329,Star Trek: Generations,1994,ACTION,German,India,52595
+330,Tales from the Hood,1995,COMEDY,Spanish,UK,79725
+331,Tom & Viv,1994,DRAMA,German,Canada,17297
+332,Village of the Damned,1995,HORROR,Italian,Canada,29471
+333,Tommy Boy,1995,COMEDY,English,France,37402
+334,Vanya on 42nd Street,1994,DRAMA,German,Canada,83671
+335,"Underneath, The",1995,MYSTERY,French,France,44792
+336,"Walking Dead, The",1995,DRAMA,French,Canada,25357
+337,What's Eating Gilbert Grape,1993,DRAMA,German,Canada,24279
+338,Virtuosity,1995,SCI-FI,German,USA,73889
+339,While You Were Sleeping,1995,COMEDY,Spanish,USA,70377
+340,"War, The",1994,ADVENTURE,German,UK,78733
+341,Double Happiness,1994,DRAMA,Italian,Canada,34138
+342,Muriel's Wedding,1994,COMEDY,French,UK,32993
+343,"Baby-Sitters Club, The",1995,CHILDREN'S,English,Canada,79408
+344,Ace Ventura: Pet Detective,1994,COMEDY,English,USA,20004
+345,"Adventures of Priscilla, Queen of the Desert, The",1994,COMEDY,Spanish,UK,45243
+346,Backbeat,1993,DRAMA,French,India,29320
+347,Bitter Moon,1992,DRAMA,English,UK,59986
+348,Bullets Over Broadway,1994,COMEDY,Spanish,Italy,46449
+349,Clear and Present Danger,1994,ACTION,Spanish,France,94911
+350,"Client, The",1994,DRAMA,French,USA,14307
+351,"Corrina, Corrina",1994,COMEDY,French,India,59355
+352,Crooklyn,1994,COMEDY,French,Italy,45284
+353,"Crow, The",1994,ACTION,French,USA,27749
+354,Cobb,1994,DRAMA,English,UK,49764
+355,"Flintstones, The",1994,CHILDREN'S,French,Canada,86436
+356,Forrest Gump,1994,COMEDY,English,France,65238
+357,Four Weddings and a Funeral,1994,COMEDY,Spanish,Canada,65106
+358,Higher Learning,1995,DRAMA,French,Italy,63449
+359,I Like It Like That,1994,COMEDY,Italian,USA,7886
+360,I Love Trouble,1994,ACTION,German,France,80037
+361,It Could Happen to You,1994,DRAMA,Italian,Italy,24871
+362,"Jungle Book, The",1994,ADVENTURE,English,Canada,9482
+363,"Wonderful, Horrible Life of Leni Riefenstahl, The (Die Macht der Bilder)",1993,DOCUMENTARY,Italian,USA,78850
+364,"Lion King, The",1994,ANIMATION,Spanish,Italy,61596
+365,Little Buddha,1993,DRAMA,French,Italy,76112
+366,Wes Craven's New Nightmare,1994,HORROR,French,India,61011
+367,"Mask, The",1994,COMEDY,German,France,95885
+368,Maverick,1994,ACTION,French,Canada,90339
+369,Mrs. Parker and the Vicious Circle,1994,DRAMA,Spanish,Italy,59692
+370,Naked Gun 33 1/3: The Final Insult,1994,COMEDY,German,France,12174
+371,"Paper, The",1994,COMEDY,Italian,India,32701
+372,Reality Bites,1994,COMEDY,Spanish,USA,25266
+373,Red Rock West,1992,THRILLER,French,Italy,68634
+374,Richie Rich,1994,CHILDREN'S,Spanish,USA,61033
+375,Safe Passage,1994,DRAMA,German,France,58036
+376,"River Wild, The",1994,ACTION,German,Canada,60836
+377,Speed,1994,ACTION,Italian,India,60013
+378,Speechless,1994,COMEDY,Spanish,Italy,12950
+379,Timecop,1994,ACTION,Italian,Italy,13074
+380,True Lies,1994,ACTION,Italian,France,99971
+381,When a Man Loves a Woman,1994,DRAMA,Italian,France,6294
+382,Wolf,1994,DRAMA,French,Italy,19239
+383,Wyatt Earp,1994,WESTERN,French,UK,75291
+384,Bad Company,1995,ACTION,English,Canada,91941
+385,"Man of No Importance, A",1994,DRAMA,German,Italy,73582
+386,S.F.W.,1994,DRAMA,Spanish,USA,65099
+387,"Low Down Dirty Shame, A",1994,ACTION,German,UK,99007
+388,Boys Life,1995,DRAMA,French,Italy,59875
+389,"Colonel Chabert, Le",1994,DRAMA,Italian,USA,25467
+390,Faster Pussycat! Kill! Kill!,1965,ACTION,German,India,9353
+391,Jason's Lyric,1994,CRIME,Italian,UK,7223
+392,"Secret Adventures of Tom Thumb, The",1993,ADVENTURE,German,India,41133
+393,Street Fighter,1994,ACTION,Italian,Italy,67143
+394,Coldblooded,1995,ACTION,German,UK,8536
+395,Desert Winds,1995,DRAMA,French,India,31017
+396,Fall Time,1995,DRAMA,English,France,80205
+397,"Fear, The",1995,HORROR,French,India,25566
+398,Frank and Ollie,1995,DOCUMENTARY,Italian,UK,66939
+399,Girl in the Cadillac,1995,DRAMA,French,Italy,87192
+400,Homage,1995,DRAMA,Italian,France,50584
+401,Mirage,1995,ACTION,Italian,Italy,38832
+402,Open Season,1996,COMEDY,Italian,UK,48120
+403,Two Crimes,1995,COMEDY,French,India,40386
+404,Brother Minister: The Assassination of Malcolm X,1994,DOCUMENTARY,English,USA,68778
+405,Highlander III: The Sorcerer,1994,ACTION,Italian,Canada,11670
+406,Federal Hill,1994,DRAMA,English,USA,90895
+407,In the Mouth of Madness,1995,HORROR,French,Italy,92608
+408,8 Seconds,1994,DRAMA,French,India,28007
+409,Above the Rim,1994,DRAMA,French,UK,72848
+410,Addams Family Values,1993,COMEDY,French,Canada,86896
+411,You So Crazy,1994,COMEDY,German,USA,10780
+412,"Age of Innocence, The",1993,DRAMA,Spanish,India,13946
+413,Airheads,1994,COMEDY,German,India,83741
+414,"Air Up There, The",1994,COMEDY,Spanish,India,80164
+415,Another Stakeout,1993,COMEDY,German,Canada,20255
+416,Bad Girls,1994,WESTERN,German,France,47631
+417,Barcelona,1994,COMEDY,French,USA,62459
+418,Being Human,1993,DRAMA,English,Canada,29914
+419,"Beverly Hillbillies, The",1993,COMEDY,English,France,58720
+420,Beverly Hills Cop III,1994,ACTION,Italian,France,31907
+421,Black Beauty,1994,ADVENTURE,French,France,3439
+422,Blink,1994,THRILLER,Spanish,USA,83241
+423,Blown Away,1994,ACTION,English,Italy,29801
+424,Blue Chips,1994,DRAMA,Italian,Italy,13481
+425,Blue Sky,1994,DRAMA,Italian,Italy,26663
+426,Body Snatchers,1993,HORROR,Italian,USA,5407
+427,Boxing Helena,1993,MYSTERY,French,Canada,68826
+428,"Bronx Tale, A",1993,DRAMA,Spanish,France,14528
+429,Cabin Boy,1994,COMEDY,French,USA,66504
+430,Calendar Girl,1993,DRAMA,Spanish,India,69232
+431,Carlito's Way,1993,CRIME,English,Canada,43990
+432,City Slickers II: The Legend of Curly's Gold,1994,COMEDY,Spanish,Italy,45361
+433,Clean Slate,1994,COMEDY,French,India,40176
+434,Cliffhanger,1993,ACTION,French,Canada,50242
+435,Coneheads,1993,COMEDY,Spanish,USA,35983
+436,Color of Night,1994,DRAMA,German,Italy,11819
+437,Cops and Robbersons,1994,COMEDY,German,India,56489
+438,"Cowboy Way, The",1994,ACTION,French,France,24653
+439,Dangerous Game,1993,DRAMA,Italian,India,6661
+440,Dave,1993,COMEDY,German,France,5686
+441,Dazed and Confused,1993,COMEDY,Italian,India,11496
+442,Demolition Man,1993,ACTION,Italian,UK,12816
+443,"Endless Summer 2, The",1994,DOCUMENTARY,German,France,10508
+444,Even Cowgirls Get the Blues,1993,COMEDY,German,UK,16305
+445,Fatal Instinct,1993,COMEDY,French,USA,6485
+446,Farewell My Concubine,1993,DRAMA,English,France,35911
+447,"Favor, The",1994,COMEDY,French,USA,45087
+448,Fearless,1993,DRAMA,English,Canada,4576
+449,Fear of a Black Hat,1993,COMEDY,English,Canada,33385
+450,With Honors,1994,COMEDY,French,Canada,70273
+451,Flesh and Bone,1993,DRAMA,German,France,69697
+452,Widows' Peak,1994,DRAMA,English,France,47567
+453,For Love or Money,1993,COMEDY,Italian,France,40731
+454,"Firm, The",1993,DRAMA,German,Canada,92030
+455,Free Willy,1993,ADVENTURE,Italian,India,97083
+456,Fresh,1994,DRAMA,German,Canada,1718
+457,"Fugitive, The",1993,ACTION,French,USA,57854
+458,Geronimo: An American Legend,1993,DRAMA,Spanish,India,14439
+459,"Getaway, The",1994,ACTION,Spanish,Italy,79459
+460,Getting Even with Dad,1994,COMEDY,German,France,99434
+461,Go Fish,1994,DRAMA,German,Canada,93809
+462,"Good Man in Africa, A",1994,ACTION,Italian,UK,26408
+463,Guilty as Sin,1993,CRIME,German,Italy,12801
+464,Hard Target,1993,ACTION,German,France,54183
+465,Heaven & Earth,1993,ACTION,French,Canada,17802
+466,Hot Shots! Part Deux,1993,ACTION,Spanish,France,20807
+467,Live Nude Girls,1995,COMEDY,Italian,USA,56617
+468,"Englishman Who Went Up a Hill, But Came Down a Mountain, The",1995,COMEDY,Italian,Canada,98664
+469,"House of the Spirits, The",1993,DRAMA,English,France,24197
+470,House Party 3,1994,COMEDY,Spanish,Italy,44971
+471,"Hudsucker Proxy, The",1994,COMEDY,Spanish,India,67412
+472,I'll Do Anything,1994,COMEDY,English,Italy,69331
+473,In the Army Now,1994,COMEDY,Italian,India,51763
+474,In the Line of Fire,1993,ACTION,English,Canada,71467
+475,In the Name of the Father,1993,DRAMA,Spanish,UK,90001
+476,"Inkwell, The",1994,COMEDY,Italian,France,83515
+477,What's Love Got to Do with It?,1993,DRAMA,German,India,10784
+478,Jimmy Hollywood,1994,COMEDY,German,Italy,58833
+479,Judgment Night,1993,ACTION,German,France,84054
+480,Jurassic Park,1993,ACTION,German,India,45506
+481,Kalifornia,1993,DRAMA,Spanish,Italy,77913
+482,Killing Zoe,1994,THRILLER,Spanish,Canada,36245
+483,King of the Hill,1993,DRAMA,French,UK,63250
+484,Lassie,1994,ADVENTURE,French,India,7490
+485,Last Action Hero,1993,ACTION,Spanish,Italy,82731
+486,Life with Mikey,1993,COMEDY,French,France,4643
+487,Lightning Jack,1994,COMEDY,English,France,80307
+488,M. Butterfly,1993,DRAMA,French,Italy,63789
+489,Made in America,1993,COMEDY,German,France,78638
+490,Malice,1993,THRILLER,Spanish,Italy,29574
+491,"Man Without a Face, The",1993,DRAMA,German,USA,1228
+492,Manhattan Murder Mystery,1993,COMEDY,Spanish,UK,86613
+493,Menace II Society,1993,ACTION,Spanish,USA,55260
+494,Executive Decision,1996,ACTION,Spanish,France,41730
+495,In the Realm of the Senses (Ai no corrida),1976,DRAMA,Spanish,India,30381
+496,What Happened Was...,1994,COMEDY,English,UK,46015
+497,Much Ado About Nothing,1993,COMEDY,Spanish,Canada,58070
+498,Mr. Jones,1993,DRAMA,English,Italy,69634
+499,Mr. Wonderful,1993,COMEDY,German,Canada,39447
+500,Mrs. Doubtfire,1993,COMEDY,Italian,India,61671
+501,Naked,1993,DRAMA,French,France,82044
+502,"Next Karate Kid, The",1994,ACTION,Spanish,Canada,13462
+503,"New Age, The",1994,DRAMA,French,France,5575
+504,No Escape,1994,ACTION,Spanish,Canada,3241
+505,North,1994,COMEDY,German,India,5908
+506,Orlando,1993,DRAMA,German,France,24015
+507,"Perfect World, A",1993,ACTION,Italian,Canada,69284
+508,Philadelphia,1993,DRAMA,German,India,44916
+509,"Piano, The",1993,DRAMA,Spanish,Canada,46215
+510,Poetic Justice,1993,DRAMA,French,India,80033
+511,"Program, The",1993,ACTION,English,France,98733
+512,Robert A. Heinlein's The Puppet Masters,1994,HORROR,Italian,France,40883
+513,Radioland Murders,1994,COMEDY,Spanish,France,73049
+514,"Ref, The",1994,COMEDY,German,UK,18157
+515,"Remains of the Day, The",1993,DRAMA,Italian,UK,80625
+516,Renaissance Man,1994,COMEDY,German,Italy,94074
+517,Rising Sun,1993,ACTION,Spanish,USA,15012
+518,"Road to Wellville, The",1994,COMEDY,French,USA,33794
+519,Robocop 3,1993,SCI-FI,English,USA,14829
+520,Robin Hood: Men in Tights,1993,COMEDY,Italian,USA,39989
+521,Romeo Is Bleeding,1993,CRIME,Italian,France,13618
+522,Romper Stomper,1992,ACTION,English,Italy,62947
+523,Ruby in Paradise,1993,DRAMA,Italian,Canada,68650
+524,Rudy,1993,DRAMA,French,France,2814
+525,"Saint of Fort Washington, The",1993,DRAMA,German,Canada,87684
+526,"Savage Nights (Nuits fauves, Les)",1992,DRAMA,German,India,66605
+527,Schindler's List,1993,DRAMATIC,German,USA,75263
+528,"Scout, The",1994,DRAMA,German,Canada,90459
+529,Searching for Bobby Fischer,1993,DRAMA,French,India,96313
+530,Second Best,1994,DRAMA,Italian,France,76022
+531,"Secret Garden, The",1993,CHILDREN'S,English,France,7924
+532,Serial Mom,1994,COMEDY,Spanish,USA,54700
+533,"Shadow, The",1994,ACTION,German,USA,20860
+534,Shadowlands,1993,DRAMA,Italian,UK,47784
+535,Short Cuts,1993,DRAMA,French,UK,99683
+536,"Simple Twist of Fate, A",1994,DRAMA,Spanish,USA,28019
+537,Sirens,1994,COMEDY,French,USA,3190
+538,Six Degrees of Separation,1993,DRAMA,French,France,74956
+539,Sleepless in Seattle,1993,COMEDY,German,Canada,78601
+540,Sliver,1993,THRILLER,Spanish,UK,17052
+541,Blade Runner,1982,FILM-NOIR,Italian,UK,81836
+542,Son in Law,1993,COMEDY,French,Italy,24534
+543,So I Married an Axe Murderer,1993,COMEDY,Italian,Italy,75483
+544,Striking Distance,1993,ACTION,Italian,Canada,72594
+545,Harlem,1993,DRAMA,English,USA,58369
+546,Super Mario Bros.,1993,ACTION,Italian,Italy,81387
+547,Surviving the Game,1994,ACTION,German,Italy,15867
+548,Terminal Velocity,1994,ACTION,German,UK,31303
+549,Thirty-Two Short Films About Glenn Gould,1993,DOCUMENTARY,Italian,France,95859
+550,Threesome,1994,COMEDY,Spanish,India,32919
+551,"Nightmare Before Christmas, The",1993,CHILDREN'S,Spanish,USA,88396
+552,"Three Musketeers, The",1993,ACTION,Spanish,UK,57074
+553,Tombstone,1993,WESTERN,Italian,India,95565
+554,Trial by Jury,1994,THRILLER,French,Italy,67715
+555,True Romance,1993,ACTION,Italian,UK,64124
+556,"War Room, The",1993,DOCUMENTARY,German,India,75460
+557,Mamma Roma,1962,DRAMA,English,USA,28949
+558,"Pagemaster, The",1994,ACTION,German,Italy,59315
+559,"Paris, France",1993,COMEDY,Italian,Italy,94295
+560,"Beans of Egypt, Maine, The",1994,DRAMA,English,India,65373
+561,Killer (Bulletproof Heart),1994,THRILLER,Spanish,France,74911
+562,Welcome to the Dollhouse,1995,COMEDY,English,Italy,60209
+563,Germinal,1993,DRAMA,English,France,48789
+564,Chasers,1994,COMEDY,German,Canada,98498
+565,Cronos,1992,HORROR,Italian,USA,59030
+566,Naked in New York,1994,COMEDY,French,France,27502
+567,Kika,1993,DRAMA,French,India,49540
+568,Bhaji on the Beach,1993,COMEDY,English,India,64191
+569,Little Big League,1994,CHILDREN'S,Italian,Italy,59315
+570,"Slingshot, The (K?disbellan )",1993,COMEDY,Spanish,Italy,78495
+571,"Wedding Gift, The",1994,DRAMA,Italian,Canada,65496
+572,Foreign Student,1994,DRAMA,Spanish,France,25075
+573,"Ciao, Professore! (Io speriamo che me la cavo )",1993,DRAMA,French,India,68120
+574,Spanking the Monkey,1994,COMEDY,Spanish,France,7469
+575,"Little Rascals, The",1994,CHILDREN'S,German,France,66826
+576,Fausto,1993,COMEDY,English,Canada,16402
+577,Andre,1994,ADVENTURE,Spanish,UK,25900
+578,"Hour of the Pig, The",1993,DRAMA,German,France,17458
+579,"Scorta, La",1993,THRILLER,Italian,France,3047
+580,Princess Caraboo,1994,DRAMA,Spanish,Italy,68111
+581,"Celluloid Closet, The",1995,DOCUMENTARY,German,UK,11012
+582,Metisse (Caf¨¦ au Lait),1993,COMEDY,German,USA,45904
+583,Dear Diary (Caro Diario),1994,COMEDY,German,India,84744
+584,I Don't Want to Talk About It (De eso no se habla),1993,DRAMA,Spanish,India,66969
+585,"Brady Bunch Movie, The",1995,COMEDY,Spanish,UK,55554
+586,Home Alone,1990,CHILDREN'S,Spanish,India,76490
+587,Ghost,1990,COMEDY,English,USA,33601
+588,Aladdin,1992,ANIMATION,French,UK,13348
+589,Terminator 2: Judgment Day,1991,ACTION,Italian,Canada,89575
+590,Dances with Wolves,1990,ADVENTURE,Italian,Canada,23362
+591,Tough and Deadly,1995,ACTION,French,France,49082
+592,Batman,1989,ACTION,French,Canada,67356
+593,"Silence of the Lambs, The",1991,DRAMA,English,France,62997
+594,Snow White and the Seven Dwarfs,1937,ANIMATION,English,UK,57610
+595,Beauty and the Beast,1991,ANIMATION,English,Canada,27822
+596,Pinocchio,1940,ANIMATION,German,Italy,79874
+597,Pretty Woman,1990,COMEDY,French,India,60309
+598,Window to Paris,1994,COMEDY,German,France,11257
+599,"Wild Bunch, The",1969,WESTERN,French,France,6472
+600,Love and a .45,1994,THRILLER,English,India,89374
+601,"Wooden Man's Bride, The (Wu Kui)",1994,DRAMA,Spanish,Canada,33982
+602,"Great Day in Harlem, A",1994,DOCUMENTARY,English,Canada,44093
+603,"Bye Bye, Love",1995,COMEDY,English,India,1992
+604,Criminals,1996,DOCUMENTARY,German,India,18104
+605,One Fine Day,1996,DRAMA,Spanish,India,14908
+606,Candyman: Farewell to the Flesh,1995,HORROR,English,Canada,78006
+607,Century,1993,DRAMA,French,France,43121
+608,Fargo,1996,DRAMMA,German,UK,55702
+609,Homeward Bound II: Lost in San Francisco,1996,ADVENTURE,French,UK,46048
+610,Heavy Metal,1981,ACTION,Italian,Italy,10170
+611,Hellraiser: Bloodline,1996,ACTION,French,USA,93479
+612,"Pallbearer, The",1996,COMEDY,Spanish,Italy,83889
+613,Jane Eyre,1996,DRAMA,French,Italy,83041
+614,Loaded,1994,DRAMA,German,France,72726
+615,Bread and Chocolate (Pane e cioccolata),1973,DRAMA,English,USA,58871
+616,"Aristocats, The",1970,ANIMATION,English,UK,61319
+617,"Flower of My Secret, The (La Flor de Mi Secreto)",1995,DRAMA,German,USA,95510
+618,Two Much,1996,COMEDY,Italian,India,2804
+619,Ed,1996,COMEDY,French,USA,72116
+620,Scream of Stone (Schrei aus Stein),1991,DRAMA,Italian,India,46587
+621,My Favorite Season,1993,DRAMA,Italian,France,79401
+623,"Modern Affair, A",1995,ROMANCE,English,Italy,68549
+624,Condition Red,1995,ACTION,English,USA,77317
+625,Asfour Stah,1990,DRAMA,French,Canada,33205
+626,"Thin Line Between Love and Hate, A",1996,COMEDY,German,Canada,92621
+627,"Last Supper, The",1995,DRAMA,English,India,10713
+628,Primal Fear,1996,DRAMA,English,India,65908
+629,Rude,1995,DRAMA,German,Canada,13042
+630,Carried Away,1996,DRAMA,Italian,UK,29941
+631,All Dogs Go to Heaven 2,1996,ANIMATION,French,Italy,3688
+632,Land and Freedom (Tierra y libertad),1995,WAR,French,Italy,56525
+633,Denise Calls Up,1995,COMEDY,Spanish,Italy,81348
+634,Theodore Rex,1995,COMEDY,German,Canada,31387
+635,"Family Thing, A",1996,COMEDY,English,Italy,14321
+636,Frisk,1995,DRAMA,English,USA,88995
+637,Sgt. Bilko,1996,COMEDY,English,USA,6785
+638,Jack and Sarah,1995,ROMANCE,English,India,57274
+639,Girl 6,1996,COMEDY,Spanish,France,67596
+640,Diabolique,1996,DRAMA,English,Italy,56803
+641,"Little Indian, Big City (Un indien dans la ville)",1994,COMEDY,Italian,France,44435
+642,Roula,1995,DRAMA,German,India,14719
+643,Peanuts - Die Bank zahlt alles,1996,COMEDY,English,USA,96547
+644,Happy Weekend,1996,COMEDY,Italian,India,40912
+645,Nelly & Monsieur Arnaud,1995,DRAMA,French,Italy,10984
+647,Courage Under Fire,1996,DRAMA,Italian,Italy,49648
+648,Mission: Impossible,1996,ACTION,French,Canada,70545
+649,Cold Fever (? k?ldum klaka),1994,COMEDY,Spanish,Canada,7020
+650,Moll Flanders,1996,DRAMA,Spanish,France,49656
+651,"Superweib, Das",1996,COMEDY,English,UK,48461
+652,"301, 302",1995,MYSTERY,Spanish,India,17381
+653,Dragonheart,1996,ACTION,French,France,92183
+654,Und keiner weint mir nach,1996,DRAMA,German,France,41860
+655,Mutters Courage,1995,COMEDY,German,USA,92568
+656,Eddie,1996,COMEDY,English,Canada,69400
+657,Yankee Zulu,1994,COMEDY,German,India,33263
+658,Billy's Holiday,1995,DRAMA,Italian,Canada,85019
+659,Purple Noon,1960,CRIME,Spanish,Italy,46128
+660,August,1996,DRAMA,German,USA,12390
+661,James and the Giant Peach,1996,ANIMATION,German,Italy,22150
+662,Fear,1996,THRILLER,French,Canada,57016
+663,Kids in the Hall: Brain Candy,1996,COMEDY,German,India,98937
+664,Faithful,1996,COMEDY,German,UK,14013
+665,Underground,1995,WAR,French,France,98931
+666,All Things Fair,1996,DRAMA,Spanish,USA,77824
+667,Bloodsport 2,1995,ACTION,French,India,29491
+668,Pather Panchali,1955,DRAMA,German,France,59131
+669,Aparajito,1956,DRAMA,English,India,51304
+670,"World of Apu, The (Apur Sansar)",1959,DRAMA,English,Canada,54510
+671,Mystery Science Theater 3000: The Movie,1996,COMEDY,Italian,UK,14914
+672,Tarantella,1995,DRAMA,Italian,Canada,17480
+673,Space Jam,1996,ADVENTURE,German,USA,35323
+674,Barbarella,1968,ADVENTURE,Italian,India,69853
+675,Hostile Intentions,1994,ACTION,Spanish,USA,39155
+676,They Bite,1996,DRAMA,Italian,UK,33598
+678,Some Folks Call It a Sling Blade,1993,DRAMA,English,UK,47473
+679,"Run of the Country, The",1995,DRAMA,Spanish,USA,51460
+680,Alphaville,1965,SCI-FI,Italian,Canada,10968
+681,Clean Slate (Coup de Torchon),1981,CRIME,German,USA,64808
+682,Tigrero: A Film That Was Never Made,1994,DOCUMENTARY,German,Italy,57170
+683,"Eye of Vichy, The (Oeil de Vichy, L')",1993,DOCUMENTARY,Italian,Italy,57243
+684,Windows,1980,DRAMA,Italian,USA,25053
+685,It's My Party,1995,DRAMA,Spanish,France,63367
+687,Country Life,1994,DRAMA,Italian,Italy,42777
+688,Operation Dumbo Drop,1995,ACTION,English,USA,85875
+690,"Promise, The (Versprechen, Das)",1994,ROMANCE,English,Italy,3022
+691,Mrs. Winterbourne,1996,COMEDY,Italian,Canada,10010
+692,Solo,1996,ACTION,Italian,UK,74877
+693,Under the Domin Tree (Etz Hadomim Tafus),1994,DRAMA,French,USA,76794
+694,"Substitute, The",1996,ACTION,Italian,Italy,98682
+695,True Crime,1995,MYSTERY,English,India,2337
+696,Butterfly Kiss,1995,THRILLER,French,Italy,23657
+697,Feeling Minnesota,1996,DRAMA,Italian,India,49822
+698,Delta of Venus,1994,DRAMA,English,India,86558
+699,To Cross the Rubicon,1991,DRAMA,French,France,98376
+700,Angus,1995,COMEDY,Italian,UK,54357
+701,Daens,1992,DRAMA,Italian,India,60059
+702,Faces,1968,DRAMA,Spanish,Canada,37017
+703,Boys,1996,DRAMA,Italian,Italy,46661
+704,"Quest, The",1996,ACTION,French,Canada,92686
+705,Cosi,1996,COMEDY,English,France,79152
+706,Sunset Park,1996,DRAMA,German,Canada,46634
+707,Mulholland Falls,1996,CRIME,French,Canada,81727
+708,"Truth About Cats & Dogs, The",1996,COMEDY,Spanish,India,75155
+709,Oliver & Company,1988,ANIMATION,Italian,France,14375
+710,Celtic Pride,1996,COMEDY,German,Italy,80153
+711,Flipper,1996,ADVENTURE,German,India,81591
+712,Captives,1994,DRAMA,Spanish,Italy,24180
+713,Of Love and Shadows,1994,DRAMA,English,USA,11363
+714,Dead Man,1995,WESTERN,English,USA,45074
+715,"Horseman on the Roof, The (Hussard sur le toit, Le)",1995,DRAMA,French,Italy,70598
+716,Switchblade Sisters,1975,CRIME,English,Italy,52778
+717,Mouth to Mouth (Boca a boca),1995,COMEDY,French,Canada,23742
+718,"Visitors, The (Les Visiteurs)",1993,COMEDY,French,UK,25741
+719,Multiplicity,1996,COMEDY,Spanish,Canada,43029
+720,Wallace & Gromit: The Best of Aardman Animation,1996,ANIMATION,French,Canada,86664
+721,Halfmoon (Paul Bowles - Halbmond),1995,DRAMA,German,Italy,56601
+722,"Haunted World of Edward D. Wood Jr., The",1995,DOCUMENTARY,French,France,41097
+723,Two Friends,1986,DRAMA,Italian,France,32496
+724,"Craft, The",1996,DRAMA,English,UK,30803
+725,"Great White Hype, The",1996,COMEDY,Spanish,Canada,56764
+726,Last Dance,1996,DRAMA,French,France,80477
+727,War Stories,1995,DOCUMENTARY,Italian,UK,40646
+728,Cold Comfort Farm,1995,COMEDY,German,UK,75498
+729,"Institute Benjamenta, or This Dream People Call Human Life",1995,DRAMA,Italian,France,64680
+730,"Low Life, The",1994,DRAMA,German,Italy,73254
+731,Heaven's Prisoners,1996,MYSTERY,Spanish,France,46431
+732,Original Gangstas,1996,CRIME,English,UK,92949
+733,"Rock, The",1996,ACTION,German,USA,44686
+734,Getting Away With Murder,1996,COMEDY,Spanish,France,89730
+735,Cemetery Man (Dellamorte Dellamore),1994,COMEDY,German,France,67669
+736,Twister,1996,ACTION,Spanish,USA,14045
+737,Barb Wire,1996,ACTION,Italian,Canada,7457
+738,"Garcu, Le",1995,DRAMA,Spanish,Italy,88791
+739,Honigmond,1996,COMEDY,Spanish,UK,30878
+741,Ghost in the Shell (Kokaku kidotai),1995,ANIMATION,English,UK,21730
+742,Thinner,1996,HORROR,German,UK,24466
+743,Spy Hard,1996,COMEDY,Italian,USA,10264
+744,Brothers in Trouble,1995,DRAMA,English,Italy,73349
+745,"Close Shave, A",1995,ANIMATION,Spanish,France,15228
+746,Force of Evil,1948,FILM-NOIR,French,UK,33298
+747,"Stupids, The",1996,COMEDY,Italian,Italy,16669
+748,"Arrival, The",1996,ACTION,Spanish,Canada,24576
+749,"Man from Down Under, The",1943,DRAMA,Italian,India,22270
+750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1963,SCI-FI,Italian,Italy,94817
+751,Careful,1992,COMEDY,English,USA,27021
+752,Vermont Is For Lovers,1992,COMEDY,Italian,UK,25375
+753,"Month by the Lake, A",1995,COMEDY,Italian,India,78504
+754,Gold Diggers: The Secret of Bear Mountain,1995,ADVENTURE,Spanish,India,74922
+755,Kim,1950,CHILDREN'S,French,India,84532
+756,Carmen Miranda: Bananas Is My Business,1994,DOCUMENTARY,French,USA,7333
+757,Ashes of Time,1994,DRAMA,Spanish,UK,43084
+758,"Jar, The (Khomreh)",1992,DRAMA,French,Italy,32989
+759,Maya Lin: A Strong Clear Vision,1994,DOCUMENTARY,English,USA,37353
+760,Stalingrad,1993,WAR,English,France,23834
+761,"Phantom, The",1996,ADVENTURE,Italian,Canada,87331
+762,Striptease,1996,COMEDY,Italian,Canada,16814
+763,"Last of the High Kings, The (a.k.a. Summer Fling)",1996,DRAMA,German,India,83755
+764,Heavy,1995,DRAMA,German,India,76801
+765,Jack,1996,COMEDY,French,USA,94964
+766,I Shot Andy Warhol,1996,DRAMA,French,UK,17589
+767,"Grass Harp, The",1995,DRAMA,English,UK,33647
+768,Someone Else's America,1995,DRAMA,Italian,India,89089
+769,Marlene Dietrich: Shadow and Light,1996,DOCUMENTARY,Italian,France,63957
+770,Costa Brava,1946,DRAMA,Spanish,France,3460
+771,"Vie est belle, La (Life is Rosey)",1987,COMEDY,Italian,USA,36327
+772,Quartier Mozart,1992,COMEDY,Spanish,UK,44420
+773,Touki Bouki (Journey of the Hyena),1973,DRAMA,Spanish,India,35590
+774,Wend Kuuni (God's Gift),1982,DRAMA,German,USA,16911
+775,Spirits of the Dead (Tre Passi nel Delirio),1968,HORROR,Italian,Canada,33243
+776,Babyfever,1994,COMEDY,English,India,29984
+777,Pharaoh's Army,1995,WAR,German,India,24814
+778,Trainspotting,1996,DRAMA,Spanish,Canada,43667
+779,'Til There Was You,1997,DRAMA,Italian,UK,38856
+780,Independence Day (ID4),1996,ACTION,German,UK,14617
+781,Stealing Beauty,1996,DRAMA,Italian,UK,79300
+782,"Fan, The",1996,THRILLER,German,USA,92279
+783,"Hunchback of Notre Dame, The",1996,ANIMATION,French,USA,98833
+784,"Cable Guy, The",1996,COMEDY,German,USA,31043
+785,Kingpin,1996,COMEDY,French,France,82821
+786,Eraser,1996,ACTION,German,USA,91950
+787,"Gate of Heavenly Peace, The",1995,DOCUMENTARY,Italian,Canada,17114
+788,"Nutty Professor, The",1996,COMEDY,Italian,USA,52281
+789,"I, Worst of All (Yo, la peor de todas)",1990,DRAMA,French,Italy,28537
+790,An Unforgettable Summer,1994,DRAMA,English,Italy,38058
+791,"Last Klezmer: Leopold Kozlowski, His Life and Music, The",1995,DOCUMENTARY,German,Canada,44769
+792,"Hungarian Fairy Tale, A",1987,FANTASY,Spanish,Italy,48711
+793,My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud),1993,DRAMA,German,Canada,22173
+794,Midnight Dancers (Sibak),1994,COMEDY,German,India,18733
+795,Somebody to Love,1994,DRAMA,English,France,1306
+796,"Very Natural Thing, A",1974,DRAMA,Italian,India,2737
+797,"Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La)",1991,COMEDY,Spanish,France,90757
+798,Daylight,1996,ACTION,German,USA,71982
+799,"Frighteners, The",1996,COMEDY,Italian,Italy,80770
+800,Lone Star,1996,DRAMA,German,UK,21839
+801,Harriet the Spy,1996,CHILDREN'S,German,UK,99837
+802,Phenomenon,1996,DRAMA,Italian,Italy,35752
+803,Walking and Talking,1996,ROMANCE,English,Italy,50443
+804,She's the One,1996,COMEDY,English,France,72636
+805,"Time to Kill, A",1996,DRAMA,English,Italy,91612
+806,American Buffalo,1996,DRAMA,Italian,UK,95556
+807,"Rendezvous in Paris (Rendez-vous de Paris, Les)",1995,COMEDY,Spanish,Canada,70054
+808,Alaska,1996,ADVENTURE,Spanish,Canada,39317
+809,Fled,1996,ACTION,Italian,UK,62152
+810,Kazaam,1996,CHILDREN'S,French,Canada,92778
+811,"Bewegte Mann, Der",1994,COMEDY,French,UK,71225
+812,Magic Hunter,1994,DRAMA,German,India,36464
+813,Larger Than Life,1996,COMEDY,French,Italy,2783
+814,"Boy Called Hate, A",1995,DRAMA,Italian,UK,17217
+815,Power 98,1995,ACTION,English,India,60027
+816,Two Deaths,1995,DRAMA,Italian,UK,90209
+818,"Very Brady Sequel, A",1996,COMEDY,French,UK,21236
+819,Stefano Quantestorie,1993,COMEDY,Spanish,USA,36358
+820,"Death in the Garden (Mort en ce jardin, La)",1956,DRAMA,German,Italy,54730
+821,"Crude Oasis, The",1995,ROMANCE,English,USA,76930
+822,Hedd Wyn,1992,DRAMA,German,USA,93366
+823,"Collectionneuse, La",1967,DRAMA,English,Italy,3401
+824,Kaspar Hauser,1993,DRAMA,Italian,USA,74055
+825,Echte Kerle,1996,COMEDY,Italian,France,81697
+826,Diebinnen,1995,DRAMA,German,UK,95552
+827,"Convent, The (Convento, O)",1995,DRAMA,French,India,71123
+828,"Adventures of Pinocchio, The",1996,ADVENTURE,Spanish,Italy,24254
+829,Joe's Apartment,1996,COMEDY,Spanish,USA,28536
+830,"First Wives Club, The",1996,COMEDY,French,USA,6643
+831,Stonewall,1995,DRAMA,French,India,66615
+832,Ransom,1996,DRAMA,Italian,France,43657
+833,High School High,1996,COMEDY,Spanish,Canada,58789
+834,Phat Beach,1996,COMEDY,Spanish,USA,13218
+835,Foxfire,1996,DRAMA,Spanish,Italy,7314
+836,Chain Reaction,1996,ACTION,German,Italy,14257
+837,Matilda,1996,CHILDREN'S,German,France,93432
+838,Emma,1996,COMEDY,French,USA,88292
+839,"Crow: City of Angels, The",1996,ACTION,Spanish,Canada,50339
+840,House Arrest,1996,COMEDY,Spanish,Canada,8456
+841,Eyes Without a Face,1959,HORROR,German,UK,41066
+842,Tales from the Crypt Presents: Bordello of Blood,1996,HORROR,French,USA,86871
+843,Lotto Land,1995,DRAMA,English,Italy,12632
+844,"Story of Xinghua, The",1993,DRAMA,German,Canada,83796
+845,"Day the Sun Turned Cold, The (Tianguo niezi)",1994,DRAMA,Spanish,India,77504
+846,Flirt,1995,DRAMA,French,Italy,38951
+847,"Big Squeeze, The",1996,COMEDY,French,Italy,6392
+848,"Spitfire Grill, The",1996,DRAMA,Italian,Italy,63237
+849,Escape from L.A.,1996,ACTION,French,USA,23590
+850,Cyclo,1995,CRIME,French,USA,17584
+851,Basquiat,1996,DRAMA,Spanish,Canada,95858
+852,Tin Cup,1996,COMEDY,German,Canada,5788
+853,Dingo,1992,DRAMA,Italian,Canada,79547
+854,"Ballad of Narayama, The (Narayama Bushiko)",1958,DRAMA,Italian,France,12156
+855,Every Other Weekend,1990,DRAMA,German,France,19803
+856,Mille bolle blu,1993,COMEDY,German,UK,83113
+857,Crows and Sparrows,1949,DRAMA,Spanish,Canada,88066
+858,"Godfather, The",1972,ACTION,English,Canada,65751
+859,"Hippie Revolution, The",1996,DOCUMENTARY,English,Canada,39094
+860,"Maybe, Maybe Not (Bewegte Mann, Der)",1994,COMEDY,Spanish,Italy,85256
+861,Supercop,1992,ACTION,English,France,20409
+862,Manny & Lo,1996,DRAMA,English,Canada,28062
+863,Celestial Clockwork,1994,COMEDY,Spanish,Canada,45863
+864,"Wife, The",1995,COMEDY,Spanish,USA,51790
+865,Small Faces,1995,DRAMA,German,Canada,50258
+866,Bound,1996,CRIME,Spanish,USA,95551
+867,Carpool,1996,COMEDY,English,Italy,44697
+868,Death in Brunswick,1991,COMEDY,English,UK,26305
+869,Kansas City,1996,CRIME,French,Italy,39942
+870,Gone Fishin',1997,COMEDY,English,France,6064
+871,Lover's Knot,1996,COMEDY,German,Canada,47321
+872,Aiqing wansui,1994,DRAMA,German,France,73150
+873,Shadow of Angels (Schatten der Engel),1976,DRAMA,Spanish,Italy,82546
+874,Killer: A Journal of Murder,1995,CRIME,German,UK,7874
+875,Nothing to Lose,1994,DRAMA,French,France,57794
+876,Police Story 4: Project S (Chao ji ji hua),1993,ACTION,Italian,Italy,64083
+877,Girls Town,1996,DRAMA,German,Italy,95091
+878,Bye-Bye,1995,DRAMA,Italian,UK,38317
+879,"Relic, The",1997,HORROR,English,UK,6370
+880,"Island of Dr. Moreau, The",1996,SCI-FI,French,UK,86847
+881,First Kid,1996,CHILDREN'S,German,France,22692
+882,"Trigger Effect, The",1996,DRAMA,French,France,66925
+884,Sweet Nothing,1995,DRAMA,English,Canada,95858
+885,Bogus,1996,CHILDREN'S,French,USA,4720
+886,Bulletproof,1996,ACTION,Italian,Italy,32332
+887,Talk of Angels,1998,DRAMA,German,USA,9981
+888,Land Before Time III: The Time of the Great Giving,1995,ANIMATION,English,France,37253
+889,1-900,1994,ROMANCE,German,Italy,55911
+890,Baton Rouge,1988,THRILLER,English,France,24486
+891,Halloween: The Curse of Michael Myers,1995,HORROR,English,Canada,44742
+892,Twelfth Night,1996,COMEDY,Spanish,India,13865
+893,Mother Night,1996,DRAMA,French,Canada,40046
+894,Liebelei,1933,ROMANCE,English,UK,21937
+895,Venice/Venice,1992,DRAMA,German,USA,45995
+896,Wild Reeds,1994,DRAMA,Italian,Italy,7841
+897,For Whom the Bell Tolls,1943,ADVENTURE,English,UK,42100
+898,"Philadelphia Story, The",1940,COMEDY,Spanish,Canada,85473
+899,Singin' in the Rain,1952,MUSICAL,English,Italy,82785
+900,"American in Paris, An",1951,MUSICAL,French,UK,9796
+901,Funny Face,1957,COMEDY,French,UK,82113
+902,Breakfast at Tiffany's,1961,DRAMA,French,USA,94289
+903,Vertigo,1958,MYSTERY,Spanish,France,37296
+904,Rear Window,1954,MYSTERY,French,France,27413
+905,It Happened One Night,1934,COMEDY,Spanish,India,43314
+906,Gaslight,1944,MYSTERY,Spanish,Italy,64379
+907,"Gay Divorcee, The",1934,COMEDY,Italian,Canada,7544
+908,North by Northwest,1959,DRAMA,English,UK,20750
+909,"Apartment, The",1960,COMEDY,English,USA,2561
+910,Some Like It Hot,1959,COMEDY,Italian,Canada,2649
+911,Charade,1963,COMEDY,French,India,25377
+912,Casablanca,1942,DRAMA,German,Italy,1863
+913,"Maltese Falcon, The",1941,FILM-NOIR,Italian,Italy,13583
+914,My Fair Lady,1964,MUSICAL,Spanish,India,84385
+915,Sabrina,1954,COMEDY,Italian,USA,34344
+916,Roman Holiday,1953,COMEDY,French,Canada,48201
+917,"Little Princess, The",1939,CHILDREN'S,English,Canada,7212
+918,Meet Me in St. Louis,1944,MUSICAL,Spanish,France,51824
+919,"Wizard of Oz, The",1939,ADVENTURE,Spanish,France,19850
+920,Gone with the Wind,1939,DRAMA,Spanish,India,84556
+921,My Favorite Year,1982,COMEDY,English,UK,86435
+922,Sunset Blvd. (a.k.a. Sunset Boulevard),1950,FILM-NOIR,French,India,2021
+923,Citizen Kane,1941,DRAMA,French,France,91403
+924,2001: A Space Odyssey,1968,DRAMA,Spanish,Italy,80353
+925,Golden Earrings,1947,ADVENTURE,English,India,92857
+926,All About Eve,1950,DRAMA,French,UK,58157
+927,"Women, The",1939,COMEDY,German,Canada,67652
+928,Rebecca,1940,ROMANCE,Spanish,France,4537
+929,Foreign Correspondent,1940,THRILLER,French,Italy,55321
+930,Notorious,1946,FILM-NOIR,Italian,Italy,13304
+931,Spellbound,1945,MYSTERY,Spanish,USA,66533
+932,"Affair to Remember, An",1957,ROMANCE,Spanish,Italy,57295
+933,To Catch a Thief,1955,COMEDY,Spanish,Italy,74357
+934,Father of the Bride,1950,COMEDY,Spanish,UK,20067
+935,"Band Wagon, The",1953,COMEDY,English,UK,21847
+936,Ninotchka,1939,COMEDY,Italian,France,9381
+937,Love in the Afternoon,1957,COMEDY,Spanish,India,64602
+938,Gigi,1958,MUSICAL,Italian,India,26049
+939,"Reluctant Debutante, The",1958,COMEDY,Italian,Italy,11114
+940,"Adventures of Robin Hood, The",1938,ACTION,Spanish,UK,13607
+941,"Mark of Zorro, The",1940,ADVENTURE,English,Canada,9533
+942,Laura,1944,CRIME,German,France,7328
+943,"Ghost and Mrs. Muir, The",1947,DRAMA,Italian,Italy,13561
+944,Lost Horizon,1937,DRAMA,German,India,39011
+945,Top Hat,1935,COMEDY,English,UK,52560
+946,To Be or Not to Be,1942,COMEDY,Spanish,UK,33241
+947,My Man Godfrey,1936,COMEDY,French,UK,88153
+948,Giant,1956,DRAMA,French,UK,94724
+949,East of Eden,1955,DRAMA,Italian,UK,5450
+950,"Thin Man, The",1934,MYSTERY,French,Italy,8229
+951,His Girl Friday,1940,COMEDY,French,Canada,91478
+952,Around the World in 80 Days,1956,ADVENTURE,German,Italy,63245
+953,It's a Wonderful Life,1946,DRAMA,Spanish,Canada,29867
+954,Mr. Smith Goes to Washington,1939,DRAMA,Italian,Canada,59356
+955,Bringing Up Baby,1938,COMEDY,Spanish,UK,96030
+956,Penny Serenade,1941,DRAMA,German,Italy,48502
+957,"Scarlet Letter, The",1926,DRAMA,German,India,80006
+958,Lady of Burlesque,1943,COMEDY,English,USA,6210
+959,Of Human Bondage,1934,DRAMA,English,Italy,4863
+960,Angel on My Shoulder,1946,CRIME,Italian,India,62455
+961,Little Lord Fauntleroy,1936,DRAMA,Italian,Canada,95356
+962,They Made Me a Criminal,1939,CRIME,German,UK,92364
+963,"Inspector General, The",1949,MUSICAL,Spanish,Canada,19636
+964,Angel and the Badman,1947,WESTERN,Spanish,Canada,8826
+965,"39 Steps, The",1935,THRILLER,English,USA,92979
+966,"Walk in the Sun, A",1945,DRAMA,German,France,43621
+967,"Outlaw, The",1943,WESTERN,German,USA,20590
+968,Night of the Living Dead,1968,HORROR,English,India,59073
+969,"African Queen, The",1951,ACTION,English,Canada,97830
+970,Beat the Devil,1954,COMEDY,French,USA,42384
+971,Cat on a Hot Tin Roof,1958,DRAMA,English,UK,75326
+972,"Last Time I Saw Paris, The",1954,DRAMA,French,Canada,72778
+973,Meet John Doe,1941,DRAMA,Spanish,France,42691
+974,Algiers,1938,DRAMA,Spanish,UK,3031
+975,Something to Sing About,1937,COMEDY,English,France,68010
+976,"Farewell to Arms, A",1932,ROMANCE,Spanish,Canada,87793
+977,Moonlight Murder,1936,MYSTERY,Spanish,Canada,88563
+978,"Blue Angel, The (Blaue Engel, Der)",1930,DRAMA,German,France,88498
+979,Nothing Personal,1995,DRAMA,Spanish,Canada,68792
+980,In the Line of Duty 2,1987,ACTION,Spanish,Canada,69027
+981,Dangerous Ground,1997,DRAMA,Italian,France,84348
+982,Picnic,1955,DRAMA,French,France,40950
+983,Madagascar Skin,1995,ROMANCE,English,UK,22918
+984,"Pompatus of Love, The",1996,COMEDY,French,USA,8985
+985,Small Wonders,1996,DOCUMENTARY,English,Italy,5415
+986,Fly Away Home,1996,ADVENTURE,French,Italy,62197
+987,Bliss,1997,DRAMA,Spanish,USA,20280
+988,Grace of My Heart,1996,COMEDY,French,USA,75987
+989,Schlafes Bruder (Brother of Sleep),1995,DRAMA,English,UK,65338
+990,Maximum Risk,1996,ACTION,Spanish,Canada,12195
+991,Michael Collins,1996,DRAMA,English,India,81343
+992,"Rich Man's Wife, The",1996,THRILLER,German,France,92009
+993,Infinity,1996,DRAMA,German,India,40459
+994,Big Night,1996,DRAMA,French,USA,94032
+996,Last Man Standing,1996,ACTION,French,Italy,37029
+997,Caught,1996,DRAMA,English,France,6655
+998,Set It Off,1996,ACTION,Spanish,France,52879
+999,2 Days in the Valley,1996,CRIME,English,UK,13698
+1000,Curdled,1996,CRIME,English,Canada,26530
+1001,"Associate, The (L'Associe)",1982,COMEDY,Italian,Italy,9691
+1002,Ed's Next Move,1996,COMEDY,Italian,Canada,94835
+1003,Extreme Measures,1996,DRAMA,French,India,70451
+1004,"Glimmer Man, The",1996,ACTION,Spanish,France,69423
+1005,D3: The Mighty Ducks,1996,CHILDREN'S,Italian,USA,74397
+1006,"Chamber, The",1996,DRAMA,English,USA,89997
+1007,"Apple Dumpling Gang, The",1975,CHILDREN'S,French,USA,68838
+1008,"Davy Crockett, King of the Wild Frontier",1955,WESTERN,Italian,France,28088
+1009,Escape to Witch Mountain,1975,ADVENTURE,German,UK,76815
+1010,"Love Bug, The",1969,CHILDREN'S,German,India,62805
+1011,Herbie Rides Again,1974,ADVENTURE,French,Italy,7136
+1012,Old Yeller,1957,CHILDREN'S,English,France,18027
